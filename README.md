@@ -1,12 +1,12 @@
-# 🛠️ Basic SQL Queries – Northwind Database
+# 🛠️ Basic SQL Queries – World Database
 
-This repository contains a SQL script titled **`basic_queries.sql`** that demonstrates a wide range of SQL fundamentals using the classic **Northwind** database.
+This repository contains a SQL script titled **`world_db.sql`** that demonstrates a wide range of SQL fundamentals using the classic **Northwind** database.
 
 ---
 
 ## 📘 File Overview
 
-The `basic_queries.sql` script covers:
+The `world_db.sql` script covers:
 
 - `SELECT` statements  
 - `WHERE` clauses  
@@ -17,8 +17,7 @@ The `basic_queries.sql` script covers:
 - Logical operators: `AND`, `OR`, `NOT`  
 - Subqueries  
 - `LIMIT` and pagination  
-- Pattern matching with `LIKE`  
-- Working with dates and text  
+- Pattern matching with `LIKE`    
 
 These queries are perfect for:
 
@@ -32,14 +31,9 @@ These queries are perfect for:
 
 The script references several Northwind tables, including:
 
-- `Customers`  
-- `Orders`  
-- `Products`  
-- `Suppliers`  
-- `Shippers`  
-- `Employees`  
-- `Order_Details`  
-
+- `City`  
+- `Country`  
+- `CountryLanguage`  
 ---
 
 ## 📸 Example Queries
