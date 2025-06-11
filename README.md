@@ -14,10 +14,11 @@ The `world_db.sql` script covers:
 - Sorting with `ORDER BY`  
 - Filtering with `BETWEEN`, `LIKE`, and `IN`  
 - Aggregation functions: `MIN`, `MAX`, `AVG`, `SUM`  
-- Logical operators: `AND`, `OR`, `NOT`  
+- Logical operators: `AND`, `OR`, `NOT`
+- Different types of Join : `Left Join`, `Right Join` and `Outer Join`
 - Subqueries  
 - `LIMIT` and pagination  
-- Pattern matching with `LIKE`    
+  
 
 These queries are perfect for:
 
@@ -37,20 +38,18 @@ The script references several Northwind tables, including:
 ---
 
 ## 📸 Example Queries
+![image](https://github.com/user-attachments/assets/236cd5c0-5b06-4b0a-a268-dd8d93ee0ea6)
 
-![Example Query Screenshot 1](images/screenshot1.png)  
-![Example Query Screenshot 2](images/screenshot2.png)
-
-> _Replace the image paths (`images/screenshot1.png`) with actual paths in your repo if you're using screenshots._
-
+![image](https://github.com/user-attachments/assets/84cd71ea-4d13-41ad-b771-b37471e94cf4)
 ---
 
 ## 🚀 How to Use
 
-1. **Set up** the Northwind database on your preferred SQL platform (MySQL, PostgreSQL, or SQLite).
-2. **Open** your SQL editor or IDE (e.g., DBeaver, pgAdmin, SSMS).
-3. **Load** the `basic_queries.sql` file and run it step by step.
-4. **Experiment** by modifying the queries to reinforce your understanding.
+1. **Set up** the World database on your preferred SQL platform (MySQL, PostgreSQL, or SQLite).
+2. **Open** your SQL editor.
+3. **Load** the `world_db (1)` file and run the code, and database should be set up. 
+4. **Load** the `basic_queries.sql` file and run it step by step.
+5. **Experiment** by modifying the queries to reinforce your understanding.
 
 ---
 
@@ -66,7 +65,7 @@ The script references several Northwind tables, including:
 ## 🧰 Requirements
 
 - A working SQL environment (MySQL, PostgreSQL, or SQLite)  
-- Northwind sample database installed  
+- World sample database installed  
 - Basic understanding of SQL  
 
 ---
