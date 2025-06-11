@@ -47,7 +47,7 @@ The script references several Northwind tables, including:
 
 1. **Set up** the World database on your preferred SQL platform (MySQL, PostgreSQL, or SQLite).
 2. **Open** your SQL editor.
-3. **Load** the `world_db (1)` file and run the code, and database should be set up. 
+3. **Load** the `world db (1).sql` file and run the code, and database should be set up. 
 4. **Load** the `basic_queries.sql` file and run it step by step.
 5. **Experiment** by modifying the queries to reinforce your understanding.
 
